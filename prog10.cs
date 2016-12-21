@@ -17,7 +17,7 @@ namespace FirstConsoleProject
 				Console.WriteLine("Tom rolled: " + attempt + ".");
 				numberOFAttempts++;
 			}
-			Console.WriteLine("It too
+			Console.WriteLine("It took Tom " + numberOFAttempts + " attempts to rolls a six!");
 			Console.ReadKey();
 		}
 	}
